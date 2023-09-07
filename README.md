@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Evan E from France <br><br>- 🔭 I’m working as A<br>- 📚 I'm currently learning in a BTS SIO in France and C++<br>- ⚡ In my free time I create game</p>
+<p align="left">I'm Evan E from France <br><br>- 🔭 I’m working as a dev<br>- 📚 I'm currently learning in a BTS SIO in France and C++ with unreal<br>- ⚡ In my free time I create game for my game studio The_Pixeleur</p>
 
 ###
 
