@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=CamoLover&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-<div style="text-align: center;">
+<div align="center">
     <a href="https://www.linkedin.com/in/evan-escabasse-8a205a264/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
