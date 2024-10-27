@@ -1,3 +1,8 @@
+<div align="center">
+  <h2>CamoLover</h2>
+  <p>French guy - Dev things on the internet for fun</p>
+</div>
+
 # 💫 About Me:
 🔭 PHP backend developper for Aix-En-Provence <br>📚 I'm currently learning JS, SQL & Java in a BTS SIO in France and C++ with unreal & in native<br>⚡ In my free time I like to create game, app & website for my game studio Pixeleur
 <br>
