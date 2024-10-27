@@ -11,16 +11,16 @@
 ## 🌐 Socials:
 <div align="center">
     <a href="https://www.linkedin.com/in/evan-escabasse-8a205a264/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://reddit.com/user/Frozenevan" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
+        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
     </a>
     <a href="https://x.com/Camo_Enjoyer" target="_blank">
-        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
     </a>
     <a href="https://codepen.io/CamoLover" target="_blank">
-        <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
     </a>
 </div>
 
