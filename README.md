@@ -24,7 +24,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CamoLover&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CamoLover&theme=radical&no-frame=true&no-bg=false&margin-w=4" height="150" alt="languages graph"  />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CamoLover&limit=5&theme=dark&combine_all_yearly_contributions=true)
