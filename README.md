@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>CamoLover</h2>
+  <h3>CamoLover</h3>
   <p>French guy - Dev things on the internet for fun</p>
 </div>
 
