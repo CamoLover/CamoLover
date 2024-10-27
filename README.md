@@ -2,7 +2,9 @@
   <h3>CamoLover</h3>
   <p>French guy - Dev things on the internet for fun</p>
 </div>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CamoLover&theme=radical&no-frame=true&no-bg=false&margin-w=4" height="150" alt="languages graph"  />
+</div>
 # 💫 About Me:
 🔭 PHP backend developper for Aix-En-Provence <br>📚 I'm currently learning JS, SQL & Java in a BTS SIO in France and C++ with unreal & in native<br>⚡ In my free time I like to create game, app & website for my game studio Pixeleur
 <br>
@@ -69,11 +71,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CamoLover&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoLover&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CamoLover&theme=radical&no-frame=true&no-bg=false&margin-w=4" height="150" alt="languages graph"  />
 </div>
 
 ### 🔝 Top Contributed Repo
