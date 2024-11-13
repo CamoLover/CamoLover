@@ -25,6 +25,9 @@
     <a href="https://codepen.io/CamoLover" target="_blank">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
     </a>
+    <a href="https://www.npmjs.com/~camolover" target="_blank">
+        <img src="https://img.shields.io/badge/npm-a32110?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+    </a>
 </div>
 
 # 💻 Tech Stack:
