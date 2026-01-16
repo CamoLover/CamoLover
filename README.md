@@ -68,17 +68,12 @@ French fullstack developer, official Sealand Lord, currently using the StackOver
     <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
 </div>
 
-
-
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamoLover&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Camolover&theme=catppuccin-macchiato" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamoLover&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamoLover&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
-</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CamoLover&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
