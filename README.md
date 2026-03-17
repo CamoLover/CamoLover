@@ -7,8 +7,8 @@
 </div>
 
 # 💫 About Me:
-French fullstack developer, official Sealand Lord, currently using the StackOverflow copy/paste keyboard, and I don’t regret anything.
-🔭 PHP backend developper for Aix-En-Provence <br>📚 I'm currently learning JS, SQL & Java in a BTS SIO in France and C++ with unreal & in native<br>⚡ In my free time I like to create game, app & website for my game studio Pixeleur
+French fullstack developer, official Sealand Lord.
+🔭 Fullstack dev for Pixeleur and ParaXe <br>📚 I'm currently learning LLM and Applied AI engineering as a hobby<br>⚡ In my free time I like to create game, app, website & random software.
 <br><br>
 I own the stackoverflow copy/paste keyboard, and I don't regret buying it
 <br><br>
