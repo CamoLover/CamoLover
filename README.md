@@ -10,7 +10,7 @@
 French fullstack developer, official Sealand Lord, currently using the StackOverflow copy/paste keyboard, and I don’t regret anything.
 🔭 PHP backend developper for Aix-En-Provence <br>📚 I'm currently learning JS, SQL & Java in a BTS SIO in France and C++ with unreal & in native<br>⚡ In my free time I like to create game, app & website for my game studio Pixeleur
 <br><br>
-"Fullstack par passion, Seigneur par conviction, Copié/Collé par tradition, et une vision nocturne pour coder dans l'ombre !"
+I own the stackoverflow copy/paste keyboard, and I don't regret buying it
 <br><br>
 [![](https://visitcount.itsvg.in/api?id=CamoLover&icon=2&color=0)](https://visitcount.itsvg.in)
 
