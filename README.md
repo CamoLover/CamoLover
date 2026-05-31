@@ -13,13 +13,13 @@ French fullstack developer, official Sealand Lord.<br>
 - In my free time I like to create game, app, website & random software.
 
 ### Some projects i'm proud of
-- **[ASR-7](https://github.com/CamoLover/AssaultronProject)** : My Biggest project, a full embodied AI based on fallout Assaultron.
-- **[MAL](https://github.com/CamoLover/morse-assembly-language)** : Assemby, but written in morse code, an esoteric language made for fun.
-- **[Hornet Desktop Companion](https://github.com/CamoLover/Hornet-Desktop-Companion)** : A desktop companion based on Hornet from hollow Knight
-- **[C++ Envirnoment setup](https://github.com/CamoLover/cpp-environment-setup)** : A script that install and setup a computer and a project to learn c++
-- **[GMTK-2023](https://github.com/The-Pixeleur/GMTK2023-Pixeleur)** : Game made in 48 Hours for Pixeleur on the theme "Role Reversed"
-- **[GMTK-2024](https://github.com/The-Pixeleur/GMTK2024-Pixeleur)** : Game made in 96 Hours for Pixeleur on the theme "Built to scale"
-- **[GMTK-2025](https://github.com/The-Pixeleur/GMTK2025-Pixeleur)** : Game made in 96 Hours for Pixeleuron the theme "Loop" 
+- 🟢 **[ASR-7](https://github.com/CamoLover/AssaultronProject)** : My Biggest project, a full embodied AI based on fallout Assaultron.
+- 🟢 **[MAL](https://github.com/CamoLover/morse-assembly-language)** : Assemby, but written in morse code, an esoteric language made for fun.
+- 🟢 **[Hornet Desktop Companion](https://github.com/CamoLover/Hornet-Desktop-Companion)** : A desktop companion based on Hornet from hollow Knight
+- 🟢 **[C++ Envirnoment setup](https://github.com/CamoLover/cpp-environment-setup)** : A script that install and setup a computer and a project to learn c++
+- 🔵 **[GMTK-2023](https://github.com/The-Pixeleur/GMTK2023-Pixeleur)** : Game made in 48 Hours for Pixeleur on the theme "Role Reversed"
+- 🔵 **[GMTK-2024](https://github.com/The-Pixeleur/GMTK2024-Pixeleur)** : Game made in 96 Hours for Pixeleur on the theme "Built to scale"
+- 🔵 **[GMTK-2025](https://github.com/The-Pixeleur/GMTK2025-Pixeleur)** : Game made in 96 Hours for Pixeleuron the theme "Loop" 
 
 [![](https://visitcount.itsvg.in/api?id=CamoLover&icon=2&color=0)](https://visitcount.itsvg.in)
 
