@@ -19,7 +19,8 @@ French fullstack developer, official Sealand Lord.<br>
 - 🟢 **[C++ Envirnoment setup](https://github.com/CamoLover/cpp-environment-setup)** : A script that install and setup a computer and a project to learn c++
 - 🔵 **[GMTK-2023](https://github.com/The-Pixeleur/GMTK2023-Pixeleur)** : Game made in 48 Hours for Pixeleur on the theme "Role Reversed"
 - 🔵 **[GMTK-2024](https://github.com/The-Pixeleur/GMTK2024-Pixeleur)** : Game made in 96 Hours for Pixeleur on the theme "Built to scale"
-- 🔵 **[GMTK-2025](https://github.com/The-Pixeleur/GMTK2025-Pixeleur)** : Game made in 96 Hours for Pixeleuron the theme "Loop" 
+- 🔵 **[GMTK-2025](https://github.com/The-Pixeleur/GMTK2025-Pixeleur)** : Game made in 96 Hours for Pixeleur on the theme "Loop" 
+- 🔵 **[GMTK-2026](https://github.com/The-Pixeleur/GMTK2026-Pixeleur)** : Game made in 96 Hours for Pixeleur on the theme "Countdown" 
 
 [![](https://visitcount.itsvg.in/api?id=CamoLover&icon=2&color=0)](https://visitcount.itsvg.in)
 
